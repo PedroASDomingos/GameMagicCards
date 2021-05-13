@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMagic", "ExercicioMagic\ExercicioMagic.csproj", "{81831CB8-A598-4301-8A4E-EA0782F38C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMagic", "ClassMagic\ClassMagic.csproj", "{09F12F9F-A1C2-4474-B183-26013E2A92BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81831CB8-A598-4301-8A4E-EA0782F38C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81831CB8-A598-4301-8A4E-EA0782F38C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81831CB8-A598-4301-8A4E-EA0782F38C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81831CB8-A598-4301-8A4E-EA0782F38C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F12F9F-A1C2-4474-B183-26013E2A92BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F12F9F-A1C2-4474-B183-26013E2A92BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F12F9F-A1C2-4474-B183-26013E2A92BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F12F9F-A1C2-4474-B183-26013E2A92BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6466918-FF09-4505-AC11-EE4D9E59FA5A}
+	EndGlobalSection
+EndGlobal
